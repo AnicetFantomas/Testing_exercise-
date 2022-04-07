@@ -1,0 +1,23 @@
+{
+  "name": "testing_exercise-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stingLengthTest.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnicetFantomas/Testing_exercise-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnicetFantomas/Testing_exercise-/issues"
+  },
+  "homepage": "https://github.com/AnicetFantomas/Testing_exercise-#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
